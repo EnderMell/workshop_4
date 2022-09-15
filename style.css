@@ -1,0 +1,49 @@
+
+.box{
+    height:50px;
+    width:50px;
+    border:0px solid black;
+    display: inline-block;
+    margin: -2px;
+}
+
+.grey{
+    height:50px;
+    width:50px;
+    border:0px solid black;
+    display: inline-block;
+    margin: -2px;
+    background-color:grey;
+}
+.red{
+    height:50px;
+    width:50px;
+    border:0px solid black;
+    display: inline-block;
+    margin: -2px;
+    background-color:#30011E;
+}
+.teagreen{
+    height:50px;
+    width:50px;
+    border:0px solid black;
+    display: inline-block;
+    margin: -2px;
+    background-color: #D7FCD4;
+}
+.laurel{
+    height:50px;
+    width:50px;
+    border:0px solid black;
+    display: inline-block;
+    margin: -2px;
+    background-color: #B6CCA1;
+}
+.goldenrod{
+    height:50px;
+    width:50px;
+    border:0px solid black;
+    display: inline-block;
+    margin: -2px;
+    background-color: #BEEF9E;
+}
